@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1647907084 source:c:\users\samme\onedrive\escritorio\sedl\aeropuerto\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<stdlib.h>
+	"Figuras.h"
+	"Cola.h"
+	"Gotoxy.h"
+	"Personas.h"
+
+1647799595 c:\users\samme\onedrive\escritorio\sedl\aeropuerto\figuras.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	"Gotoxy.h"
+
+1647668329 c:\users\samme\onedrive\escritorio\sedl\aeropuerto\gotoxy.h
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1647798747 c:\users\samme\onedrive\escritorio\sedl\aeropuerto\cola.h
+	<iostream>
+	<iomanip>
+	"Figuras.h"
+	"Gotoxy.h"
+	"Personas.h"
+
+1647665771 c:\users\samme\onedrive\escritorio\sedl\aeropuerto\personas.h
+	<cstdlib>
+	<random>
+	<chrono>
+
